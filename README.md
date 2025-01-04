@@ -16,7 +16,7 @@ Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabe
   -  Análise de componentes principais: <https://bit.ly/3ZVeoh2>
   -  Análise de agrupamentos: <https://bit.ly/3DHCqok>
 
-- **Análise do valor de imóveis em SP:** <https://bit.ly/40kxNJB>
+- **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/40kxNJB>
 
 - **Vendas de casas em King County - EUA**
   - Análise exploratória de dados: <https://bit.ly/3W6MLRb>
