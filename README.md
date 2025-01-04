@@ -19,6 +19,13 @@ Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabe
 - **Análise do valor de imóveis em SP:** <https://bit.ly/40kxNJB>
 
 - **Vendas de casas em King County - EUA**
-  - Análise exploratória de dados: <https://bit.ly/3W6MLRb>   
+  - Análise exploratória de dados: <https://bit.ly/3W6MLRb>
+ 
+- **Análise de Variância** - ANOVA
+  - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
+  - ANOVA com mais de uma variável resposta: <https://bit.ly/4j2VkWH> 
 
+- **Regras de associação de produtos**
+  - Análise em R: <https://bit.ly/3ZVyUOo>
+  - Relatório: <https://bit.ly/3PrPeBC>   
 
