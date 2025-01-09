@@ -29,3 +29,4 @@ Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabe
   - Análise em R: <https://bit.ly/3ZVyUOo>
   - Relatório: <https://bit.ly/3PrPeBC>   
 
+- **Análise de sobrevivência ao Naufrágio do Titanic:** <https://bit.ly/4acetBD>
