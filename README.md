@@ -11,15 +11,15 @@ Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabe
 
 ## Projetos:
 
+- **Vendas de casas em King County - EUA**
+  - Análise exploratória de dados: <https://bit.ly/3W6MLRb>
+
+- **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/40kxNJB>
+
 - **Análise de personalidade de clientes** 
   -  Análise exploratória de dados: <https://bit.ly/3C7dRk5>
   -  Análise de componentes principais: <https://bit.ly/3ZVeoh2>
   -  Análise de agrupamentos: <https://bit.ly/3DHCqok>
-
-- **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/40kxNJB>
-
-- **Vendas de casas em King County - EUA**
-  - Análise exploratória de dados: <https://bit.ly/3W6MLRb>
  
 - **Análise de Variância** - ANOVA
   - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
