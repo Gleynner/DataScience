@@ -11,8 +11,7 @@ Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabe
 
 ## Projetos:
 
-- **Vendas de casas em King County - EUA**
-  - Análise exploratória de dados: <https://bit.ly/3W6MLRb>
+- **Vendas de casas em King County - EUA:** <https://bit.ly/3Xe587a>
 
 - **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/40kxNJB>
 
