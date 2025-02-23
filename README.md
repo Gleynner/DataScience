@@ -13,14 +13,10 @@ Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabe
 
 - **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
 
+- **Análise de personalidade de clientes:** <https://bit.ly/4gXv6mp>
+
 - **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/4398zjb>
 
-- **Análise de personalidade de clientes:** <https://bit.ly/4gXv6mp>
-  
-  -  Análise exploratória de dados: <https://bit.ly/3C7dRk5>
-  -  Análise de componentes principais: <https://bit.ly/3ZVeoh2>
-  -  Análise de agrupamentos: <https://bit.ly/3DHCqok>
- 
 - **Análise de Variância** - ANOVA
   - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
   - ANOVA com mais de uma variável resposta: <https://bit.ly/4j2VkWH> 
