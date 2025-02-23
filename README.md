@@ -13,7 +13,7 @@ Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabe
 
 - **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
 
-- **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/40kxNJB>
+- **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/4398zjb>
 
 - **Análise de personalidade de clientes** 
   -  Análise exploratória de dados: <https://bit.ly/3C7dRk5>
