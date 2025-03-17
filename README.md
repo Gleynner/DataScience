@@ -20,9 +20,10 @@ Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabe
 - **Análise de Variância** - ANOVA
   - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
   - ANOVA com mais de uma variável resposta: <https://bit.ly/4j2VkWH> 
-
+<!--
 - **Regras de associação de produtos**
   - Análise em R: <https://bit.ly/3ZVyUOo>
   - Relatório do projeto: <https://bit.ly/3PrPeBC>   
 
 - **Análise de sobrevivência ao Naufrágio do Titanic:** <https://bit.ly/4acetBD>
+-->
