@@ -1,12 +1,15 @@
 # Gleynner Ghiotto
 <sub>*Data Scientist*</sub>
 
-Sou graduado em Engenharia de Produção e mestre em Estatística Aplicada, e apaixonado pela Ciência de Dados. A combinação dessas áreas me proporciona uma visão mais abrangente sobre negócios conciliada a possibilidade de agregar valor para a empresa na tomada de decisões baseadas no Data Driven. Com alto grau de comprometimento e foco no resultado, me dedico ao máximo na busca por bons resultados e com pensamento inovador na resolução de problemas. Realizo projetos de análise, aplicação de modelos estatísticos/machine learning, transformação, preparação e visualização dos dados, extraindo o máximo de insights.
+Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria e com forte paixão por Ciência de Dados. Minha formação combina análise estatística, modelagem preditiva e visão estratégica de negócios, permitindo impulsionar a tomada de decisões orientadas por dados.        
 
-Além da parte técnica, gosto e tenho facilidade de aprender coisas novas, sabedoria para ouvir e aprender com quem tem mais experiência no assunto e experiência prática com trabalho em equipe. Acredito que duas cabeças pensam melhor do que uma e, que, sabendo ouvir aprendemos mais.
+Sou altamente comprometido com a entrega de resultados, com pensamento inovador para superar desafios e um foco constante na melhoria contínua. Tenho experiência na preparação, transformação, análise e modelagem estatística, machine learning e visualização de dados, sempre focado na extração de insights.      
 
+Além das habilidades técnicas, sou um aprendiz constante, valorizo a colaboração em equipe e sei que a troca de ideias é fundamental para o sucesso. Tenho facilidade em aprender com os outros e acredito que a colaboração leva a soluções mais criativas e eficazes.     
 
-**Possuo conhecimento em ferramentas como: R, Python, Machine Learning, Estatística e PowerBI.**
+<br>
+
+**Habilidades: R, Python, Machine Learning, Estatística e Power BI.**
 <br>
 
 ## Projetos:
