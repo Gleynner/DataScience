@@ -12,6 +12,14 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 **Habilidades: R, Python, Machine Learning, Estatística e Power BI.**
 <br>
 
+<div> 
+  <a href = "mailto:gleynnerghiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gleynnerghiotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/Gleynner" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+
+</div>
+<br>
+
 ## Projetos:
 
 - **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
