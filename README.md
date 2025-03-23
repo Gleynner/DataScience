@@ -30,7 +30,9 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 - **Análise de Variância** - ANOVA
   - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
-  - ANOVA com mais de uma variável resposta: <https://bit.ly/4j2VkWH> 
+  - ANOVA com mais de uma variável resposta: <https://bit.ly/4j2VkWH>
+
+<br>
 <!--
 - **Regras de associação de produtos**
   - Análise em R: <https://bit.ly/3ZVyUOo>
