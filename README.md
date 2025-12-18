@@ -22,7 +22,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 ## Projetos:
 
-- **Análise de Dados Comerciais - SQL:** <https://bit.ly/4s6dETm>
+- **Análise de Dados Comerciais - SQL:** <https://bit.ly/492J44D>
 
 - **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
 
