@@ -22,19 +22,29 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 ## Projetos:
 
-- **Análise de Dados Comerciais - SQL:** <https://bit.ly/492J44D>
 
-- **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
+### R:
 
 - **Análise de personalidade de clientes:** <https://bit.ly/4gXv6mp>
-
-- **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/4398zjb>
 
 - **Análise de Variância** - ANOVA
   - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
   - ANOVA com mais de uma variável resposta: <https://bit.ly/4j2VkWH>
 
+
+### Python:
+
+- **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
+
+- **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/4398zjb>
+
+
+### SQL:
+
+- **Análise de Dados Comerciais - SQL:** <https://bit.ly/492J44D>
+
 <br>
+
 <!--
 - **Regras de associação de produtos**
   - Análise em R: <https://bit.ly/3ZVyUOo>
