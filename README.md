@@ -9,7 +9,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 <br>
 
-**Habilidades: R, Python, Machine Learning, Estatística e Power BI.**
+**Habilidades: R, Python, SQL, Machine Learning, Estatística e Power BI.**
 <br>
 
 <div> 
