@@ -23,15 +23,6 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 ## Projetos:
 
 
-### R:
-
-- **Análise de personalidade de clientes:** <https://bit.ly/4gXv6mp>
-
-- **Análise de Variância** - ANOVA
-  - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
-  - ANOVA com mais de uma variável resposta: <https://bit.ly/4j2VkWH>
-
-
 ### Python:
 
 - **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
@@ -44,6 +35,17 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 - **Análise de Dados Comerciais - SQL:** <https://bit.ly/492J44D>
 
 <br>
+
+
+### R:
+
+- **Análise de personalidade de clientes:** <https://bit.ly/4gXv6mp>
+
+- **Análise de Variância** - ANOVA
+  - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
+  - ANOVA com mais de uma variável resposta: <https://bit.ly/4j2VkWH>
+
+
 
 <!--
 - **Regras de associação de produtos**
