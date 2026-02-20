@@ -29,6 +29,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 - **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/4398zjb>
 
+<br>
 
 ### SQL:
 
