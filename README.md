@@ -32,7 +32,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 ### SQL:
 
-- **Análise de Dados Comerciais - SQL:** <https://bit.ly/492J44D>
+- **Análise de Dados Comerciais - SQL Server:** <https://bit.ly/492J44D>
 
 <br>
 
