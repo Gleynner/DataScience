@@ -25,6 +25,8 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 ### Python:
 
+- [London Bike Sharing — Análise Exploratória e Previsão de Demanda](https://github.com/Gleynner/London_Bike_Sharing/blob/main/README.md)
+
 - **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
 
 - **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/4398zjb>
