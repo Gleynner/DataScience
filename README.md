@@ -44,9 +44,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 - [Análise de personalidade de clientes](https://github.com/Gleynner/AnaliseDePersonalidadeDeClientesComR/blob/main/README.md)
 
-- **Análise de Variância** - ANOVA
-  - [Aplicação do DIC e DBC](http://htmlpreview.github.io/?https://github.com/Gleynner/Analise_de_variancia_ANOVA/blob/main/ANOVA_aplicacao_DIC_e_DBC.html)
-  - [ANOVA com mais de uma variável resposta](http://htmlpreview.github.io/?https://github.com/Gleynner/Analise_de_variancia_ANOVA/blob/main/ANOVA_mais_de_uma_variavel_resposta.html)
-
+- [Análise de Variância - ANOVA](https://github.com/Gleynner/Analise_de_variancia-ANOVA/blob/main/README.md)
+  
 
 
