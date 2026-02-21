@@ -42,7 +42,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 ### R:
 
-- **Análise de personalidade de clientes:** <https://bit.ly/4gXv6mp>
+- [Análise de personalidade de clientes](https://github.com/Gleynner/AnaliseDePersonalidadeDeClientesComR/blob/main/README.md)
 
 - **Análise de Variância** - ANOVA
   - Aplicação do DIC e DBC: <https://bit.ly/4gWxVo0>
