@@ -27,7 +27,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 - [London Bike Sharing - Análise Exploratória e Previsão de Demanda](https://github.com/Gleynner/London_Bike_Sharing/blob/main/README.md)
 
-- **Vendas de casas em King County - EUA:** <https://bit.ly/4hR7WPM>
+- [Vendas de casas em King County - EUA](https://github.com/Gleynner/HouseSalesInKingCounty-USA/blob/main/README.md)
 
 - **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/4398zjb>
 
