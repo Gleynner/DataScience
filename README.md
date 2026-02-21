@@ -29,7 +29,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 - [Vendas de casas em King County - EUA](https://github.com/Gleynner/HouseSalesInKingCounty-USA/blob/main/README.md)
 
-- **Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo:** <https://bit.ly/4398zjb>
+- [Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo](https://github.com/Gleynner/Analise_do_valor_de_imoveis_em_SP/blob/main/Analise_Espacial_e_Preditiva_Imoveis_SP.ipynb)
 
 <br>
 
