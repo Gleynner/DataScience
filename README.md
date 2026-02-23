@@ -35,6 +35,7 @@ Além das habilidades técnicas, sou um aprendiz constante, valorizo a colabora�
 
 ### SQL:
 
+- [Análise Estratégica de Vendas e Precificação - PostgreSQL](https://github.com/Gleynner/commercial_data_analysis-SQL/blob/main/README.md)
 - [Análise de Dados Comerciais - SQL Server](https://github.com/Gleynner/SQL_server_Project/blob/main/README.md)
 
 <br>
