@@ -1,11 +1,12 @@
 # Gleynner Ghiotto
 <sub>*Data Scientist*</sub>
 
-Sou Engenheiro de Produção com mestrado em Estatística Aplicada e Biometria e com forte paixão por Ciência de Dados. Minha formação combina análise estatística, modelagem preditiva e visão estratégica de negócios, permitindo impulsionar a tomada de decisões orientadas por dados.        
+Sou Engenheiro de Produção, com mestrado em Estatística Aplicada e Biometria, com atuação voltada à análise de dados, modelagem estatística e apoio à tomada de decisão. Minha formação integra fundamentos sólidos em matemática e estatística, técnicas de ciência de dados e compreensão de problemas de negócio, permitindo abordar problemas de forma analítica e orientada a resultados.
 
-Sou altamente comprometido com a entrega de resultados, com pensamento inovador para superar desafios e um foco constante na melhoria contínua. Tenho experiência na preparação, transformação, análise e modelagem estatística, machine learning e visualização de dados, sempre focado na extração de insights.      
+Ao longo dos últimos anos, atuei diretamente com análise estatística, modelagem preditiva, machine learning, visualização e interpretação de dados, tanto em projetos acadêmicos quanto aplicados. Busco desenvolver soluções que equilibrem rigor metodológico e aplicabilidade prática, traduzindo resultados quantitativos em insights compreensíveis e úteis, com preocupação metodológica e clareza na comunicação dos resultados. Além disso, minha vivência em Engenharia de Produção contribui com uma visão prática de processos, métricas e tomada de decisão, complementando minha base analítica.
 
-Além das habilidades técnicas, sou um aprendiz constante, valorizo a colaboração em equipe e sei que a troca de ideias é fundamental para o sucesso. Tenho facilidade em aprender com os outros e acredito que a colaboração leva a soluções mais criativas e eficazes.     
+Valorizo processos bem estruturados, aprendizado contínuo e melhoria incremental. Acredito que soluções eficazes em ciência de dados são construídas a partir de análises bem fundamentadas, testes cuidadosos e colaboração entre diferentes perspectivas. Procuro aprender constantemente com os desafios e com as pessoas ao meu redor, entendendo que a troca de conhecimento é parte essencial do desenvolvimento profissional.
+
 
 <br>
 
