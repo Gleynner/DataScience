@@ -10,7 +10,15 @@ Valorizo processos bem estruturados, aprendizado contínuo e melhoria incrementa
 
 <br>
 
-**Habilidades: R, Python, SQL, Machine Learning, Estatística e Power BI.**
+Habilidades: 
+
+- Estatística aplicada e inferencial
+- Análise exploratória de dados (EDA) e visualização
+- Machine Learning e modelagem preditiva
+- Validação de modelos e interpretação de resultados
+- R, Python e SQL
+- Dashboards analíticos (Power BI)
+
 <br>
 
 <div> 
