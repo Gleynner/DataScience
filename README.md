@@ -52,7 +52,6 @@ Habilidades:
 
 <br>
 
-<details>
   
 ### R:
 
@@ -61,4 +60,3 @@ Habilidades:
 - [Análise de Variância - ANOVA](https://github.com/Gleynner/Analise_de_variancia-ANOVA/blob/main/README.md)
   
 
-</details>
