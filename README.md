@@ -47,11 +47,13 @@ Habilidades:
 ### SQL:
 
 - [Análise Estratégica de Vendas e Precificação - PostgreSQL](https://github.com/Gleynner/commercial_data_analysis-SQL/blob/main/README.md)
+  
 - [Análise de Dados Comerciais - SQL Server](https://github.com/Gleynner/SQL_server_Project/blob/main/README.md)
 
 <br>
 
-
+<details>
+  
 ### R:
 
 - [Análise de personalidade de clientes](https://github.com/Gleynner/AnaliseDePersonalidadeDeClientesComR/blob/main/README.md)
@@ -59,4 +61,4 @@ Habilidades:
 - [Análise de Variância - ANOVA](https://github.com/Gleynner/Analise_de_variancia-ANOVA/blob/main/README.md)
   
 
-
+</details>
