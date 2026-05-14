@@ -35,7 +35,7 @@ Habilidades:
 ### Python:
 
 - [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito/blob/main/README.md)
-- 
+  
 - [London Bike Sharing - Análise Exploratória e Previsão de Demanda](https://github.com/Gleynner/London_Bike_Sharing/blob/main/README.md)
 
 - [Vendas de casas em King County - EUA](https://github.com/Gleynner/HouseSalesInKingCounty-USA/blob/main/README.md)
