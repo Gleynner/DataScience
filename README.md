@@ -35,7 +35,7 @@ Pensamento analítico • Resolução de problemas • Raciocínio crítico • 
 
 ### Python:
 
-- [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito/blob/main/README.md)
+- [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito/blob/main/README.md) - Projeto de Ciência de Dados voltado à análise de risco de crédito e previsão de inadimplência utilizando técnicas de Machine Learning. O trabalho envolveu desde a análise exploratória e tratamento dos dados até a construção, otimização e avaliação de modelos preditivos em um cenário de dados desbalanceados. Ao longo do projeto, foram aplicadas técnicas de feature engineering, seleção de variáveis, balanceamento de classes, pipelines de pré-processamento, otimização de hiperparâmetros com Optuna e ajuste de threshold, buscando construir modelos mais robustos, interpretáveis e aderentes a cenários reais de concessão de crédito. Os resultados demonstraram bom desempenho dos modelos LightGBM e SVC na identificação de clientes com maior probabilidade de inadimplência, além de evidenciar a importância da análise de trade-offs entre recall, precision e custo operacional no processo de tomada de decisão.
   
 - [London Bike Sharing - Análise Exploratória e Previsão de Demanda](https://github.com/Gleynner/London_Bike_Sharing/blob/main/README.md)
 
