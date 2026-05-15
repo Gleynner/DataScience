@@ -11,10 +11,13 @@ Mais do que apresentar modelos, este portfólio representa meu processo de evolu
 Observação: os dados utilizados nos projetos possuem finalidade exclusivamente educacional e demonstrativa, respeitando princípios de privacidade, ética e boas práticas no uso de dados.
 
 <br>
+<br>
 
 ## 🛠️ Competências Técnicas:
 
 Python • R • SQL • Power BI • Pandas • NumPy • Análise Exploratória de Dados • Estatística • Feature Engineering • Modelagem Preditiva • Machine Learning • Scikit-Learn • Pipelines • LightGBM • Imbalanced-Learn • Optuna • Validação de Modelos • GitHub
+
+<br>
 
 ## 🤝 Competências Comportamentais
 
@@ -28,9 +31,10 @@ Pensamento analítico • Resolução de problemas • Raciocínio crítico • 
   <a href="https://github.com/Gleynner" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 
 </div>
+
 <br>
 
-## Projetos:
+# Projetos:
 
 
 ### Python:
