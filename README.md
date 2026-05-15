@@ -47,7 +47,7 @@ Pensamento analítico • Resolução de problemas • Raciocínio crítico • 
 
 ### SQL:
 
-- [Análise Estratégica de Vendas e Precificação - PostgreSQL](https://github.com/Gleynner/commercial_data_analysis-SQL/blob/main/README.md)
+- [Análise Estratégica de Vendas e Precificação - PostgreSQL](https://github.com/Gleynner/commercial_data_analysis-SQL/blob/main/README.md) - Projeto de análise de dados comerciais utilizando SQL com foco em desempenho de vendas, precificação e análise competitiva. O trabalho envolveu a construção de consultas para integração e análise de dados relacionais, permitindo avaliar indicadores de vendas, comportamento de categorias, posicionamento de preços e inconsistências cadastrais com potencial impacto operacional e financeiro. Ao longo do projeto, foram aplicados conceitos de modelagem relacional, agregações, joins, subqueries e CTEs para transformar dados transacionais em informações estratégicas voltadas à tomada de decisão.
   
 - [Análise de Dados Comerciais - SQL Server](https://github.com/Gleynner/SQL_server_Project/blob/main/README.md)
 
