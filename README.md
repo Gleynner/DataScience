@@ -17,12 +17,12 @@ Observação: os dados utilizados nos projetos possuem finalidade exclusivamente
 
 Python • R • SQL • Power BI • Pandas • NumPy • Análise Exploratória de Dados • Estatística • Feature Engineering • Modelagem Preditiva • Machine Learning • Scikit-Learn • Pipelines • LightGBM • Imbalanced-Learn • Optuna • Validação de Modelos • GitHub
 
-<br>
 
 ## 🤝 Competências Comportamentais
 
 Pensamento analítico • Resolução de problemas • Raciocínio crítico • Documentação Técnica • Comunicação • Aprendizado contínuo • Trabalho colaborativo • Visão de negócio
 
+<br>
 <br>
 
 <div> 
