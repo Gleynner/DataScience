@@ -1,23 +1,24 @@
-# Gleynner Ghiotto
-<sub>*Data Scientist*</sub>
+# 📊 Portfólio de Ciência de Dados
 
-Sou Engenheiro de Produção, com mestrado em Estatística Aplicada e Biometria, com atuação voltada à análise de dados, modelagem estatística e apoio à tomada de decisão. Minha formação integra fundamentos sólidos em matemática e estatística, técnicas de ciência de dados e compreensão de problemas de negócio, permitindo abordar problemas de forma analítica e orientada a resultados.
+Bem-vindo(a) ao meu portfólio de projetos em Ciência de Dados e Machine Learning. Este repositório reúne estudos, experimentos e projetos desenvolvidos ao longo da minha jornada de aprendizado e aprofundamento na área de dados.
 
-Ao longo dos últimos anos, atuei diretamente com análise estatística, modelagem preditiva, machine learning, visualização e interpretação de dados, tanto em projetos acadêmicos quanto aplicados. Busco desenvolver soluções que equilibrem rigor metodológico e aplicabilidade prática, traduzindo resultados quantitativos em insights compreensíveis e úteis, com preocupação metodológica e clareza na comunicação dos resultados. Além disso, minha vivência em Engenharia de Produção contribui com uma visão prática de processos, métricas e tomada de decisão, complementando minha base analítica.
+Aqui, busco aplicar na prática conceitos de análise de dados, estatística e Machine Learning por meio de projetos que envolvem desde a exploração e tratamento dos dados até a construção, avaliação e otimização de modelos preditivos.
 
-Valorizo processos bem estruturados, aprendizado contínuo e melhoria incremental. Acredito que soluções eficazes em ciência de dados são construídas a partir de análises bem fundamentadas, testes cuidadosos e colaboração entre diferentes perspectivas. Procuro aprender constantemente com os desafios e com as pessoas ao meu redor, entendendo que a troca de conhecimento é parte essencial do desenvolvimento profissional.
+Os projetos foram desenvolvidos com foco em aprendizado contínuo e boas práticas, utilizando ferramentas amplamente empregadas no mercado, como Python, Scikit-Learn, LightGBM, Optuna e Imbalanced-Learn. Sempre que possível, procuro estruturar os estudos de forma organizada e próxima de cenários reais, valorizando tanto a parte técnica quanto a interpretação dos resultados.
 
+Mais do que apresentar modelos, este portfólio representa meu processo de evolução na área de dados, incluindo estudos sobre pré-processamento, feature engineering, pipelines, validação de modelos, tuning de hiperparâmetros e análise orientada à tomada de decisão.
+
+Observação: os dados utilizados nos projetos possuem finalidade exclusivamente educacional e demonstrativa, respeitando princípios de privacidade, ética e boas práticas no uso de dados.
 
 <br>
 
-Habilidades: 
+## 🛠️ Competências Técnicas:
 
-- Estatística aplicada e inferencial
-- Análise exploratória de dados (EDA) e visualização
-- Machine Learning e modelagem preditiva
-- Validação de modelos e interpretação de resultados
-- R, Python e SQL
-- Dashboards analíticos (Power BI)
+Python • R • SQL • Power BI • Pandas • NumPy • Análise Exploratória de Dados • Estatística • Feature Engineering • Modelagem Preditiva • Machine Learning • Scikit-Learn • Pipelines • LightGBM • Imbalanced-Learn • Optuna • Validação de Modelos • GitHub
+
+## 🤝 Competências Comportamentais
+
+Pensamento analítico • Resolução de problemas • Raciocínio crítico • Documentação Técnica • Comunicação • Aprendizado contínuo • Trabalho colaborativo • Visão de negócio
 
 <br>
 
