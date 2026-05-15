@@ -11,7 +11,6 @@ Mais do que apresentar modelos, este portfólio representa meu processo de evolu
 Observação: os dados utilizados nos projetos possuem finalidade exclusivamente educacional e demonstrativa, respeitando princípios de privacidade, ética e boas práticas no uso de dados.
 
 <br>
-<br>
 
 ## 🛠️ Competências Técnicas:
 
@@ -23,7 +22,7 @@ Python • R • SQL • Power BI • Pandas • NumPy • Análise Exploratóri
 Pensamento analítico • Resolução de problemas • Raciocínio crítico • Documentação Técnica • Comunicação • Aprendizado contínuo • Trabalho colaborativo • Visão de negócio
 
 <br>
-<br>
+
 
 <div> 
   <a href = "mailto:gleynnerghiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
