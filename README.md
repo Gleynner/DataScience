@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu portfólio de projetos em Ciência de Dados e Machine Learning. Este repositório reúne estudos, experimentos e projetos desenvolvidos ao longo da minha jornada de aprendizado e aprofundamento na área de dados.
 
-Aqui, busco aplicar na prática conceitos de análise de dados, estatística e Machine Learning por meio de projetos que envolvem desde a exploração e tratamento dos dados até a construção, avaliação e otimização de modelos preditivos.
+Aqui, busco aplicar na prática conceitos de análise de dados, estatística e Machine Learning por meio de projetos que envolvem desde a exploração e tratamento dos dados até a construção de pipeline para avaliação e otimização de modelos preditivos.
 
 Os projetos foram desenvolvidos com foco em aprendizado contínuo e boas práticas, utilizando ferramentas amplamente empregadas no mercado, como Python, Scikit-Learn, LightGBM, Optuna e Imbalanced-Learn. Sempre que possível, procuro estruturar os estudos de forma organizada e próxima de cenários reais, valorizando tanto a parte técnica quanto a interpretação dos resultados.
 
