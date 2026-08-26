@@ -44,9 +44,11 @@ Pensamento analítico • Resolução de problemas • Raciocínio crítico • 
   
 - [Análise Exploratória e Previsão de Demanda - London Bike Sharing](https://github.com/Gleynner/Analise_demanda_bike_sharing) - Projeto de análise e previsão de demanda utilizando técnicas de Análise Exploratória de Dados (EDA) e modelagem de séries temporais aplicadas a dados de bicicletas compartilhadas da cidade de Londres. O trabalho envolveu a investigação de padrões temporais, sazonalidades e influência de variáveis climáticas sobre o volume de aluguéis, além da construção de um modelo preditivo com Prophet para estimar a demanda futura. Ao longo do projeto, foram realizadas análises estatísticas, visualizações temporais e validação do comportamento da série, permitindo identificar tendências recorrentes, diferenças entre períodos e fatores associados aos picos de utilização. Os resultados demonstraram a capacidade do modelo em capturar tendências e sazonalidades da demanda, evidenciando como técnicas de séries temporais podem apoiar decisões relacionadas a planejamento operacional, mobilidade urbana e previsão de demanda.
 
+<!-- 
 - [Vendas de casas em King County - EUA](https://github.com/Gleynner/House_sales_in_King_County-USA)
 
 - [Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo](https://github.com/Gleynner/Analise_do_valor_de_imoveis_em_SP)
+-->
 
 <br>
 
