@@ -50,20 +50,38 @@ Projeto de ciência de dados que investiga como café, estresse e hábitos de vi
 - Diagnóstico crítico de um caso de vazamento de dados (data leakage) estrutural, com discussão técnica sobre suas implicações
 - Recomendações de negócio traduzidas a partir dos insights estatísticos
 
-
-- [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito) - Projeto de Ciência de Dados voltado à análise de risco de crédito e previsão de inadimplência utilizando técnicas de Machine Learning. O trabalho envolveu desde a análise exploratória e tratamento dos dados até a construção, otimização e avaliação de modelos preditivos em um cenário de dados desbalanceados. Ao longo do projeto, foram aplicadas técnicas de feature engineering, seleção de variáveis, balanceamento de classes, pipelines de pré-processamento, otimização de hiperparâmetros com Optuna e ajuste de threshold, buscando construir modelos mais robustos, interpretáveis e aderentes a cenários reais de concessão de crédito. Os resultados demonstraram bom desempenho dos modelos LightGBM e SVC na identificação de clientes com maior probabilidade de inadimplência, além de evidenciar a importância da análise de trade-offs entre recall, precision e custo operacional no processo de tomada de decisão.
-  
-- [Análise Exploratória e Previsão de Demanda - London Bike Sharing](https://github.com/Gleynner/Analise_demanda_bike_sharing) - Projeto de análise e previsão de demanda utilizando técnicas de Análise Exploratória de Dados (EDA) e modelagem de séries temporais aplicadas a dados de bicicletas compartilhadas da cidade de Londres. O trabalho envolveu a investigação de padrões temporais, sazonalidades e influência de variáveis climáticas sobre o volume de aluguéis, além da construção de um modelo preditivo com Prophet para estimar a demanda futura. Ao longo do projeto, foram realizadas análises estatísticas, visualizações temporais e validação do comportamento da série, permitindo identificar tendências recorrentes, diferenças entre períodos e fatores associados aos picos de utilização. Os resultados demonstraram a capacidade do modelo em capturar tendências e sazonalidades da demanda, evidenciando como técnicas de séries temporais podem apoiar decisões relacionadas a planejamento operacional, mobilidade urbana e previsão de demanda.
-
-<!-- 
-- [Vendas de casas em King County - EUA](https://github.com/Gleynner/House_sales_in_King_County-USA)
-
-- [Análise geoespacial e preditiva dos valores de imóveis na cidade de São Paulo](https://github.com/Gleynner/Analise_do_valor_de_imoveis_em_SP)
--->
-
 <br>
 
-### SQL:
+**💳 [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito)** 
+
+`Python` `LightGBM` `SVC` `Optuna` `Imbalanced-Learn`
+
+Previsão de inadimplência em cenário de dados desbalanceados, com foco na construção de modelos robustos e interpretáveis para apoiar decisões de concessão de crédito.
+
+**Principais resultados:**
+- Pipeline completo de pré-processamento, feature engineering e seleção de variáveis
+- Balanceamento de classes e otimização de hiperparâmetros com Optuna
+- Ajuste de threshold orientado ao trade-off entre recall, precision e custo operacional
+- LightGBM e SVC com melhor desempenho na identificação de clientes inadimplentes
+
+<br>
+  
+**🚲 [Análise Exploratória e Previsão de Demanda - London Bike Sharing](https://github.com/Gleynner/Analise_demanda_bike_sharing)** 
+
+`Python` `Prophet` `Séries Temporais` `EDA`
+
+Análise de padrões temporais e sazonalidades no compartilhamento de bicicletas em Londres, com construção de modelo preditivo para estimar demanda futura.
+
+**Principais resultados:**
+- Identificação de sazonalidades e influência de variáveis climáticas sobre o volume de aluguéis
+- Modelo preditivo com Prophet capturando tendências e padrões recorrentes da série temporal
+- Aplicação direta a cenários de planejamento operacional e mobilidade urbana
+
+
+<br>
+<br>
+
+### 🗄️ SQL:
 
 - [Análise Estratégica de Vendas e Precificação - PostgreSQL](https://github.com/Gleynner/commercial_data_analysis-SQL) - Projeto de análise de dados comerciais utilizando SQL com foco em desempenho de vendas, precificação e análise competitiva. O trabalho envolveu a construção de consultas para integração e análise de dados relacionais, permitindo avaliar indicadores de vendas, comportamento de categorias, posicionamento de preços e inconsistências cadastrais com potencial impacto operacional e financeiro. Ao longo do projeto, foram aplicados conceitos de modelagem relacional, agregações, joins, subqueries e CTEs para transformar dados transacionais em informações estratégicas voltadas à tomada de decisão.
   
