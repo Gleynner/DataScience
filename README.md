@@ -14,14 +14,13 @@ Observação: os dados utilizados nos projetos possuem finalidade exclusivamente
 
 ## 🛠️ Competências Técnicas:
 
-Python • R • SQL • Power BI • Pandas • NumPy • Análise Exploratória de Dados • Estatística • Feature Engineering • Modelagem Preditiva • Machine Learning • Scikit-Learn • Pipelines • LightGBM • Imbalanced-Learn • Optuna • Validação de Modelos • GitHub
+Análise Exploratória de Dados · Estatística · Feature Engineering · Modelagem Preditiva · Pipelines de Pré-processamento · Balanceamento de Classes (Imbalanced-Learn) · Validação e Otimização de Modelos (Optuna) · Séries Temporais · Storytelling e Comunicação de Dados
 
 
 ## 🤝 Competências Comportamentais
 
-Pensamento analítico • Resolução de problemas • Raciocínio crítico • Documentação Técnica • Comunicação • Aprendizado contínuo • Trabalho colaborativo • Visão de negócio
+Pensamento analítico · Resolução de problemas · Raciocínio crítico · Documentação técnica · Comunicação · Visão de negócio · Aprendizado contínuo · Trabalho colaborativo
 
-<br>
 <br>
 
 ## 🚀 Projetos em Destaque
