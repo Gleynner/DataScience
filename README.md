@@ -50,7 +50,9 @@ Previsão de inadimplência em cenário de dados desbalanceados, com foco na con
 
 **Principais resultados:**
 - Pipeline completo de pré-processamento, feature engineering e seleção de variáveis
-- Balanceamento de classes e otimização de hiperparâmetros com Optuna
+- Avaliação criteriosa de balanceamento: SMOTE testado e descartado por falta de ganho consistente, em favor de ponderação de classes
+- Feature engineering avançada com WOE, Information Value e clusterização geográfica
+- Otimização de hiperparâmetros com Optuna
 - Ajuste de threshold orientado ao trade-off entre recall, precision e custo operacional
 - LightGBM e SVC com melhor desempenho na identificação de clientes inadimplentes
 
