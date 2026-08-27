@@ -60,14 +60,15 @@ Previsão de inadimplência em cenário de dados desbalanceados, com foco na con
   
 **🚲 [Análise Exploratória e Previsão de Demanda - London Bike Sharing](https://github.com/Gleynner/Analise_demanda_bike_sharing)** 
 
-`Python` `Prophet` `Séries Temporais` `EDA`
-
-Análise de padrões temporais e sazonalidades no compartilhamento de bicicletas em Londres, com construção de modelo preditivo para estimar demanda futura.
-
+`Python` `Prophet` `Séries Temporais` `Testes de Hipótese` `EDA`
+ 
+Previsão de demanda por bicicletas compartilhadas em Londres, combinando testes estatísticos não paramétricos, tratamento de outliers e validação cruzada temporal para calibrar o modelo Prophet.
+ 
 **Principais resultados:**
-- Identificação de sazonalidades e influência de variáveis climáticas sobre o volume de aluguéis
-- Modelo preditivo com Prophet capturando tendências e padrões recorrentes da série temporal
-- Aplicação direta a cenários de planejamento operacional e mobilidade urbana
+- RMSE relativo de 17,53% (classificação "Boa capacidade preditiva"), após tratamento de outliers e tuning via cross-validation temporal
+- Testes de Shapiro-Wilk e Mann-Whitney U confirmando diferença estatisticamente significativa entre estações do ano (p = 0,00048)
+- Identificação de um pico de demanda atípico causado pela greve do metrô de Londres em 2015 — validado com fontes jornalísticas externas
+- Modelo capturando sazonalidade diária, semanal e anual, com aplicação direta a planejamento operacional de mobilidade urbana
 
 
 <br>
