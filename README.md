@@ -38,7 +38,15 @@ Pensamento analítico • Resolução de problemas • Raciocínio crítico • 
 
 ### Python:
 
-- [Café, Estresse e Sono: Da Análise de Dados à Recomendação de Negócio](https://github.com/Gleynner/coffee-sleep-health-analysis) - Projeto de ciência de dados que investiga como café, estresse e hábitos de vida se relacionam com a qualidade do sono, aplicado a um caso de negócio simulado para uma empresa de saúde e bem-estar. O trabalho percorre todo o ciclo analítico — análise exploratória, geração de insights, modelagem preditiva (Regressão Logística, LightGBM e XGBoost) e recomendações de negócio.
+**☕ [Café, Estresse e Sono: Da Análise de Dados à Recomendação de Negócio](https://github.com/Gleynner/coffee-sleep-health-analysis)**
+Projeto de ciência de dados que investiga como café, estresse e hábitos de vida se relacionam com a qualidade do sono, aplicado a um caso de negócio simulado para uma empresa de saúde e bem-estar. O trabalho percorre todo o ciclo analítico — análise exploratória, geração de insights, modelagem preditiva (Regressão Logística, LightGBM e XGBoost) e recomendações de negócio.
+
+**Principais resultados:**
+- Identificação do nível de estresse como fator mais associado à qualidade do sono (r ≈ -0,91), superando o impacto isolado do café
+- Comparação de 3 modelos de classificação (Regressão Logística, LightGBM, XGBoost), com F1-macro de até 0,99
+- Diagnóstico crítico de um caso de vazamento de dados (data leakage) estrutural, com discussão técnica sobre suas implicações
+- Recomendações de negócio traduzidas a partir dos insights estatísticos
+
 
 - [Análise de Risco de Crédito](https://github.com/Gleynner/Analise_de_risco_de_credito) - Projeto de Ciência de Dados voltado à análise de risco de crédito e previsão de inadimplência utilizando técnicas de Machine Learning. O trabalho envolveu desde a análise exploratória e tratamento dos dados até a construção, otimização e avaliação de modelos preditivos em um cenário de dados desbalanceados. Ao longo do projeto, foram aplicadas técnicas de feature engineering, seleção de variáveis, balanceamento de classes, pipelines de pré-processamento, otimização de hiperparâmetros com Optuna e ajuste de threshold, buscando construir modelos mais robustos, interpretáveis e aderentes a cenários reais de concessão de crédito. Os resultados demonstraram bom desempenho dos modelos LightGBM e SVC na identificação de clientes com maior probabilidade de inadimplência, além de evidenciar a importância da análise de trade-offs entre recall, precision e custo operacional no processo de tomada de decisão.
   
