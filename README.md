@@ -40,6 +40,8 @@ Pensamento analítico • Resolução de problemas • Raciocínio crítico • 
 
 **☕ [Café, Estresse e Sono: Da Análise de Dados à Recomendação de Negócio](https://github.com/Gleynner/coffee-sleep-health-analysis)**
 
+`Python` `Pandas` `Scikit-learn` `LightGBM` `XGBoost` `EDA`
+
 Projeto de ciência de dados que investiga como café, estresse e hábitos de vida se relacionam com a qualidade do sono, aplicado a um caso de negócio simulado para uma empresa de saúde e bem-estar. O trabalho percorre todo o ciclo analítico — análise exploratória, geração de insights, modelagem preditiva (Regressão Logística, LightGBM e XGBoost) e recomendações de negócio.
 
 **Principais resultados:**
