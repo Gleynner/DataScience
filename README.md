@@ -1,4 +1,4 @@
-# 📊 Portfólio de Ciência de Dados
+# 📊 Gleynner Ghiotto | Portfólio de Ciência de Dados
 
 Bem-vindo(a) ao meu portfólio de projetos em Ciência de Dados e Machine Learning. Este repositório reúne estudos, experimentos e projetos desenvolvidos ao longo da minha jornada de aprendizado e aprofundamento na área de dados.
 
@@ -22,15 +22,6 @@ Python • R • SQL • Power BI • Pandas • NumPy • Análise Exploratóri
 Pensamento analítico • Resolução de problemas • Raciocínio crítico • Documentação Técnica • Comunicação • Aprendizado contínuo • Trabalho colaborativo • Visão de negócio
 
 <br>
-
-
-<div> 
-  <a href="https://www.linkedin.com/in/gleynnerghiotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/Gleynner" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gleynnerghiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-</div>
-
 <br>
 
 ## 🚀 Projetos em Destaque
