@@ -25,7 +25,7 @@ Mais do que apresentar modelos, este portfólio representa meu processo de evolu
 - [Competências Comportamentais](#-competências-comportamentais)
 - [Projetos — Python](#-python)
 - [Projetos — SQL](#-sql)
-- [Projetos — R](#-r)
+- [Projetos — R](#-R)
 - [Vamos conversar](#-vamos-conversar)
 
 ---
