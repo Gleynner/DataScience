@@ -42,10 +42,10 @@ Pensamento analítico · Resolução de problemas · Raciocínio crítico · Doc
 
 <br>
 
+---
 
 ## 🚀 Projetos em Destaque
 
----
 
 <a id="projetos-python"></a>
 
