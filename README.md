@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gleynnerghiotto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Gleynner"><img src="https://img.shields.io/badge/Perfil_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Gleynner"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:gleynnerghiotto@outlook"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -38,14 +38,6 @@ Análise Exploratória de Dados · Estatística · Feature Engineering · Modela
 ## 🤝 Competências Comportamentais
 
 Pensamento analítico · Resolução de problemas · Raciocínio crítico · Documentação técnica · Comunicação · Visão de negócio · Aprendizado contínuo · Trabalho colaborativo
-
-
-<div> 
-  <a href="https://www.linkedin.com/in/gleynnerghiotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/Gleynner" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gleynnerghiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-</div>
 
 <br>
 
@@ -155,4 +147,8 @@ Aplicação de testes estatísticos (ANOVA) para comparação de médias entre g
 ### 📬 Vamos conversar?
 
 Estou aberto(a) a oportunidades em Ciência de Dados, Analytics e áreas correlatas. Se você quer discutir algum desses projetos, trocar uma ideia sobre dados ou tem uma oportunidade que combine com meu perfil, me chame!
+
+- 💼 LinkedIn: [in/gleynnerghiotto](https://linkedin.com/in/gleynnerghiotto)
+- ✉️ Email: [gleynnerghiotto@outlook.com](mailto:gleynnerghiotto@outlook.com)
+- 🔗 Perfil GitHub: [github.com/Gleynner](https://github.com/Gleynner)
 
