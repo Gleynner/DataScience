@@ -1,3 +1,7 @@
+<h1 align="center">📊 Gleynner Ghiotto | Portfólio de Ciência de Dados</h1> <p align="center"> <a href="https://linkedin.com/in/gleynnerghiotto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Gleynner"><img src="https://img.shields.io/badge/Perfil_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+
+
+
 # 📊 Gleynner Ghiotto | Portfólio de Ciência de Dados
 
 Bem-vindo(a) ao meu portfólio de projetos em Ciência de Dados e Machine Learning. Este repositório reúne estudos, experimentos e projetos desenvolvidos ao longo da minha jornada de aprendizado e aprofundamento na área de dados.
