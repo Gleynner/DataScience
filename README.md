@@ -1,4 +1,10 @@
-<h1 align="center">📊 Gleynner Ghiotto | Portfólio de Ciência de Dados</h1> <p align="center"> <a href="https://linkedin.com/in/gleynnerghiotto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Gleynner"><img src="https://img.shields.io/badge/Perfil_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+<h1 align="center">📊 Gleynner Ghiotto | Portfólio de Ciência de Dados</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gleynnerghiotto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Gleynner"><img src="https://img.shields.io/badge/Perfil_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 
 
