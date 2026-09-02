@@ -147,6 +147,7 @@ Estudo de perfis de clientes a partir de traços de personalidade, aplicando té
 Aplicação de testes estatísticos (ANOVA) para comparação de médias entre grupos, com interpretação dos resultados e validação das premissas do teste.
 
 <br>
+
 ---
 
 <a id="-vamos-conversar"></a>
