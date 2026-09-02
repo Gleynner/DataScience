@@ -8,7 +8,7 @@ Os projetos foram desenvolvidos com foco em aprendizado contínuo e boas prátic
 
 Mais do que apresentar modelos, este portfólio representa meu processo de evolução na área de dados, incluindo estudos sobre pré-processamento, feature engineering, pipelines, validação de modelos, tuning de hiperparâmetros e análise orientada à tomada de decisão.
 
-Observação: os dados utilizados nos projetos possuem finalidade exclusivamente educacional e demonstrativa, respeitando princípios de privacidade, ética e boas práticas no uso de dados.
+> Observação: os dados utilizados nos projetos possuem finalidade exclusivamente educacional e demonstrativa, respeitando princípios de privacidade, ética e boas práticas no uso de dados.
 
 <br>
 
@@ -72,7 +72,7 @@ Previsão de inadimplência em cenário de dados desbalanceados, com foco na con
  
 Previsão de demanda por bicicletas compartilhadas em Londres, combinando testes estatísticos não paramétricos, tratamento de outliers e validação cruzada temporal para calibrar o modelo Prophet.
  
-**Principais resultados:**
+**Principais resultados:**https://github.com/Gleynner/DataScience/blob/main/README.md
 - RMSE relativo de 17,53% (classificação "Boa capacidade preditiva"), após tratamento de outliers e tuning via cross-validation temporal
 - Testes de Shapiro-Wilk e Mann-Whitney U confirmando diferença estatisticamente significativa entre estações do ano (p = 0,00048)
 - Identificação de um pico de demanda atípico causado pela greve do metrô de Londres em 2015 — validado com fontes jornalísticas externas
