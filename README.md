@@ -132,7 +132,6 @@ Consultas analíticas com lógica condicional para responder perguntas de negóc
 <br>
 
 ---
-
   
 ### 📉 R
 
