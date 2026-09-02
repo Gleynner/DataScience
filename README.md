@@ -23,13 +23,14 @@ Mais do que apresentar modelos, este portfólio representa meu processo de evolu
 
 - [Competências Técnicas](#-competências-técnicas)
 - [Competências Comportamentais](#-competências-comportamentais)
-- [Projetos — Python](#-python)
-- [Projetos — SQL](#-SQL)
-- [Projetos — R](#-R)
+- [Projetos — Python](#projetos-python)
+- [Projetos — SQL](#projetos-sql)
+- [Projetos — R](#projetos-r)
 - [Vamos conversar](#-vamos-conversar)
 
 ---
 
+<a id="projetos-python"></a>
 ## 🛠️ Competências Técnicas
 
 Análise Exploratória de Dados · Estatística · Feature Engineering · Modelagem Preditiva · Pipelines de Pré-processamento · Balanceamento de Classes (Imbalanced-Learn) · Validação e Otimização de Modelos (Optuna) · Séries Temporais · Storytelling e Comunicação de Dados
@@ -45,6 +46,8 @@ Pensamento analítico · Resolução de problemas · Raciocínio crítico · Doc
 ## 🚀 Projetos em Destaque
 
 ---
+
+<a id="projetos-python"></a>
 
 ### 🐍 Python
 
@@ -95,6 +98,7 @@ Previsão de demanda por bicicletas compartilhadas em Londres, combinando testes
 
 ---
 
+<a id="projetos-sql"></a>
 ### 🗄️ SQL
 
 **📈 [Análise Estratégica de Vendas e Precificação - PostgreSQL](https://github.com/Gleynner/commercial_data_analysis-SQL)**
@@ -124,7 +128,8 @@ Consultas analíticas com lógica condicional para responder perguntas de negóc
 <br>
 
 ---
-  
+
+<a id="projetos-r"></a>
 ### 📉 R
 
 **🧑‍🤝‍🧑 [Análise de personalidade de clientes](https://github.com/Gleynner/AnaliseDePersonalidadeDeClientesComR/blob/main/README.md)**
