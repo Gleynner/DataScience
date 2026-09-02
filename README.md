@@ -3,12 +3,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/gleynnerghiotto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Gleynner"><img src="https://img.shields.io/badge/Perfil_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:gleynnerghiotto@outlook"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-
-
-# 📊 Gleynner Ghiotto | Portfólio de Ciência de Dados
 
 Bem-vindo(a) ao meu portfólio de projetos em Ciência de Dados e Machine Learning. Este repositório reúne estudos, experimentos e projetos desenvolvidos ao longo da minha jornada de aprendizado e aprofundamento na área de dados.
 
@@ -22,7 +19,18 @@ Mais do que apresentar modelos, este portfólio representa meu processo de evolu
 
 <br>
 
-## 🛠️ Competências Técnicas:
+## 📑 Sumário
+
+- [Competências Técnicas](#-competências-técnicas)
+- [Competências Comportamentais](#-competências-comportamentais)
+- [Projetos — Python](#-python)
+- [Projetos — SQL](#-sql)
+- [Projetos — R](#-r)
+- [Vamos conversar](#-vamos-conversar)
+
+---
+
+## 🛠️ Competências Técnicas
 
 Análise Exploratória de Dados · Estatística · Feature Engineering · Modelagem Preditiva · Pipelines de Pré-processamento · Balanceamento de Classes (Imbalanced-Learn) · Validação e Otimização de Modelos (Optuna) · Séries Temporais · Storytelling e Comunicação de Dados
 
@@ -41,8 +49,10 @@ Pensamento analítico · Resolução de problemas · Raciocínio crítico · Doc
 
 <br>
 
+
 ## 🚀 Projetos em Destaque
 
+---
 
 ### 🐍 Python
 
@@ -90,7 +100,8 @@ Previsão de demanda por bicicletas compartilhadas em Londres, combinando testes
 
 
 <br>
-<br>
+
+---
 
 ### 🗄️ SQL
 
@@ -117,9 +128,10 @@ Principais resultados:
 
 Análise de comportamento de vendas, sazonalidade e preferências de pagamento
 Consultas analíticas com lógica condicional para responder perguntas de negócio
-<br>
 
 <br>
+
+---
 
   
 ### 📉 R
