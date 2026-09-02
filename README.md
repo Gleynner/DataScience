@@ -148,7 +148,7 @@ Aplicação de testes estatísticos (ANOVA) para comparação de médias entre g
 
 <br>
 
-
+<a id="-vamos-conversar"></a>
 ### 📬 Vamos conversar?
 
 Estou aberto(a) a oportunidades em Ciência de Dados, Analytics e áreas correlatas. Se você quer discutir algum desses projetos, trocar uma ideia sobre dados ou tem uma oportunidade que combine com meu perfil, me chame!
