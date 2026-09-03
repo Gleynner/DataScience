@@ -60,8 +60,9 @@ Projeto de ciência de dados que investiga como café, estresse e hábitos de vi
 **Principais resultados:**
 - Identificação do nível de estresse como fator mais associado à qualidade do sono (r ≈ -0,91), superando o impacto isolado do café
 - Comparação de 3 modelos de classificação (Regressão Logística, LightGBM, XGBoost), com F1-macro de até 0,99
-- Diagnóstico crítico de um caso de vazamento de dados (data leakage) estrutural, com discussão técnica sobre suas implicações
-- Recomendações de negócio traduzidas a partir dos insights estatísticos
+- Aplicação de SHAP e análise dos coeficientes para interpretar o comportamento do modelo, evidenciando Sleep_Hours como principal fator preditivo (64,82% do impacto SHAP)
+- Diagnóstico crítico de possível dependência estrutural entre Sleep_Hours e Sleep_Quality, considerando a natureza sintética dos dados
+- Tradução dos resultados de EDA e Machine Learning em recomendações de negócio acionáveis, com discussão sobre limitações e causalidade
 
 <br>
 
